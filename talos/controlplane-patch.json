@@ -26,11 +26,5 @@
     {
       "feature-gates": "MixedProtocolLBService=true"
     }
-  },
-  {
-    "op": "add", "path": "/cluster/network/cni", "value":
-    {
-      "name": "none"
-    }
   }
 ]
